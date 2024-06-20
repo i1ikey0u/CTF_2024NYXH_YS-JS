@@ -60,14 +60,13 @@ WriteUp 周末调整完格式会逐步补充。
 ## 题目附件
 /决赛题目/失窃的MP4文件-file2.pcap.zip
 
-## 题目附件
-https://192.168.100.244/externalLinksController/chain/%E5%A4%B1%E7%AA%83%E7%9A%84MP4%E6%96%87%E4%BB%B6-file2.pcap.zip?ckey=Szl0CrqvA6bJHjw1%2FZoWdA4AkKs37B3QANuf%2BcdF6niGGm26HHLZPPvEMXB48t6T
 
 
 # 工控流量分析二
 ## 题目描述
 请你帮助小刘分析流量包，黑客在PLC中写入了flag。flag 形式如下： flag{xxxx}
 ## 题目附件
+/决赛题目/工控流量分析二.zip
 
 # data-encry
 ## 题目描述
